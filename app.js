@@ -1,2 +1,3 @@
 console.log("Hola Mundo!!!");
-console.log("Archivo de Git");
+let a= parseInt(prompt("Hola buenas!!"));
+alert("Los datos han sido guardados");
